@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Max+</string>
+
+
+    <string-array name="invest_tab">
+        <item>全部理财</item>
+        <item>推荐理财</item>
+        <item>热门理财</item>
+
+    </string-array>
+    <string name="title_activity_login">LoginActivity</string>
+</resources>

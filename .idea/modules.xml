@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AlexP2P.iml" filepath="$PROJECT_DIR$/AlexP2P.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GestureLock/GestureLock.iml" filepath="$PROJECT_DIR$/GestureLock/GestureLock.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MPChartLib/MPChartLib.iml" filepath="$PROJECT_DIR$/MPChartLib/MPChartLib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ViewPagerIndicator-library/ViewPagerIndicator-library.iml" filepath="$PROJECT_DIR$/ViewPagerIndicator-library/ViewPagerIndicator-library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/takephoto_library/takephoto_library.iml" filepath="$PROJECT_DIR$/takephoto_library/takephoto_library.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,2 @@
+include ':app', ':MPChartLib', ':GestureLock', ':takephoto_library'
+include ':ViewPagerIndicator-library'
